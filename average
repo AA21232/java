@@ -1,0 +1,14 @@
+class Main { 
+
+    public static void main(String[] args) {
+
+       double a,b; 
+     a = 8; 
+     b = 3;
+    double average = (a+b)/2;
+    System.out.println("Average = " + average);
+        
+
+
+    }
+}
