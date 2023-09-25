@@ -1,0 +1,11 @@
+class Main { 
+
+    public static void main(String[] args) {
+    int i=6; int j=3;
+        if(i==j); 
+        {
+            //statement 
+        System.out.println(" i is equal");
+        }
+    }
+}
