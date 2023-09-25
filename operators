@@ -1,0 +1,17 @@
+class Main { 
+
+    public static void main(String[] args) {
+    double a=7;
+    a/=2; 
+    System.out.println(a);
+    int b=6;
+    b+=2;
+    System.out.println(b); 
+
+    int x=7; 
+    System.out.println("addition: "+(a+=1));
+    System.out.println("subtraction: "+(a-=1));
+    System.out.println("multipilication: "+(a*=1));
+    System.out.println("division: " +(a/=2));
+    }
+}
