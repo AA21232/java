@@ -1,0 +1,19 @@
+class Main { 
+
+    public static void main(String[] args) {
+    int i=6; int j=3;
+        if(i>j) //if block 
+        {
+            //statement 
+        System.out.println(" i is greater");
+
+        }
+    else   //else block 
+        {   //false statement 
+
+        
+            System.out.println(" j is greater");
+        }
+        
+    }
+}
