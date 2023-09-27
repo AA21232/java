@@ -1,0 +1,36 @@
+class Main {   
+
+    public static void main(String[] args) {  /*
+    int i=6; int j=3;
+        if(i>j) //if block 
+        {
+            //statement 
+        System.out.println(" i is greater");
+
+        }
+    else   //else block 
+        {   //false statement 
+
+        
+            System.out.println(" j is greater");
+        } 
+        
+    }
+} */ 
+
+int s=25; 
+
+    if(s>30)
+    { 
+        System.out.println("Number is greater than 30"); 
+    }
+    if(s>20)
+    {
+        System.out.println("Number is greater than 20"); 
+    }
+    if(s>10)
+    {
+        System.out.println("Number is greater than 10");
+    }
+}
+}
